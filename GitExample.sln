@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kaas", "kaas\kaas.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worst", "worst\worst.csproj", "{04C06F2B-09D9-4E4C-9392-D5513668C40E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boterham", "boterham\boterham.csproj", "{11FDB250-A784-4431-8399-4D34E8561E9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{04C06F2B-09D9-4E4C-9392-D5513668C40E}.Release|x64.Build.0 = Release|Any CPU
 		{04C06F2B-09D9-4E4C-9392-D5513668C40E}.Release|x86.ActiveCfg = Release|Any CPU
 		{04C06F2B-09D9-4E4C-9392-D5513668C40E}.Release|x86.Build.0 = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|x64.Build.0 = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Debug|x86.Build.0 = Debug|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|x64.ActiveCfg = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|x64.Build.0 = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|x86.ActiveCfg = Release|Any CPU
+		{11FDB250-A784-4431-8399-4D34E8561E9B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
